@@ -1,0 +1,773 @@
+id;tank;type;lvl
+1;Leichttraktor;lt;1
+2;MC-1;lt;1
+3;T1 Cunningham;lt;1
+4;Renault NC-31;lt;1
+5;Renault FT;lt;1
+6;Cruiser Mk. I;lt;1
+7;Renault Otsu;lt;1
+8;Kolohousenka;lt;1
+9;Strv fm/21;lt;1
+10;4TP;lt;1
+11;Fiat 3000;lt;1
+12;Vickers Medium Mk. I;st;1
+13;?Pz.Kpfw. 35 (t);lt;2
+14;Pz.Kpfw. II;lt;2
+15;Pz.Kpfw. I;lt;2
+16;Pz.Kpfw. 35 R;lt;2
+17;MKA;lt;2
+18;Pz.Kpfw. 38H 735 (f);lt;2
+19;Pz.Kpfw. II Ausf. D;lt;2
+20;??-2;lt;2
+21;T-26;lt;2
+22;T-60;lt;2
+23;T-45;lt;2
+24;???????;lt;2
+25;M2 Light Tank;lt;2
+26;T2 Light Tank;lt;2
+27;T1E6;lt;2
+28;T7 Combat Car;lt;2
+29;Vickers Mk. E Type B;lt;2
+30;Vickers 6 ton;lt;2
+31;Hotchkiss H35;lt;2
+32;D1;lt;2
+33;FCM 36;lt;2
+34;Renault R35;lt;2
+35;AM 39 Gendron-Somua;lt;2
+36;AMR 35;lt;2
+37;?M2;lt;2
+38;Cruiser Mk. II;lt;2
+39;Light Mk. VIC;lt;2
+40;Type 95 Ha-Go;lt;2
+41;Type 97 Te-Ke;lt;2
+42;LT vz. 35;lt;2
+43;Strv m/38;lt;2
+44;L-60;lt;2
+45;TKS z n.k.m. 20 mm;lt;2
+46;7TP;lt;2
+47;L6/40;lt;2
+48;T2 Medium Tank;st;2
+49;Vickers Medium Mk. II;st;2
+50;Chi-Ni;st;2
+51;Type 89 I-Go/Chi-Ro;st;2
+52;M14/41;pt;2
+53;Panzerjäger I;pt;2
+54;AT-1;pt;2
+55;T3 HMC;pt;2
+56;T-26G FT;pt;2
+57;Renault FT AC;pt;2
+58;Universal Carrier 2-pdr;pt;2
+59;Pvlvv fm/42;pt;2
+60;G.Pz. Mk. VI (e);art;2
+61;?CY-18;art;2
+62;T1 HMC;art;2
+63;Renault FT 75 BS;art;2
+64;Loyd Gun Carriage;art;2
+65;?Pz.Kpfw. 38(t);lt;3
+66;Pz.Kpfw. III Ausf. E;lt;3
+67;Pz.Kpfw. I Ausf. C;lt;3
+68;Pz.Kpfw. II Ausf. G;lt;3
+69;Pz.Kpfw. M 15;lt;3
+70;Pz.Kpfw. II Ausf. J;lt;3
+71;Pz.Kpfw. T 15;lt;3
+72;43 M. Toldi III;lt;3
+73;T-46;lt;3
+74;T-70;lt;3
+75;??-5;lt;3
+76;T-116;lt;3
+77;??-??;lt;3
+78;?3 ??????;lt;3
+79;T-127;lt;3
+80;???;lt;3
+81;??-7 ??????????????;lt;3
+82;M3 Stuart;lt;3
+83;MTLS-1G14;lt;3
+84;M22 Locust;lt;3
+85;Type 2597 Chi-Ha;lt;3
+86;AMX 38;lt;3
+87;Stuart I-V;lt;3
+88;?Valentine;lt;3
+89;Cruiser Mk. III;lt;3
+90;A7E3;lt;3
+91;Type 97 Chi-Ha;lt;3
+92;Type 98 Ke-Ni;lt;3
+93;LT vz. 38;lt;3
+94;Panzerwagen 39;lt;3
+95;Strv m/40L;lt;3
+96;Lago M38;lt;3
+97;10TP;lt;3
+98;Pz.Kpfw. IV Ausf. A;st;3
+99;Pz.Kpfw. S35 739 (f);st;3
+100;Gro?traktor-Krupp;st;3
+101;T-29;st;3
+102;M2 Medium Tank;st;3
+103;Convert. Medium Tan...;st;3
+104;D2;st;3
+105;Somua $35;st;3
+106;Vickers Medium Mk. III;st;3
+107;M15/42;st;3
+108;M16/43 Sahariano;st;3
+109;Type 91 Heavy;st;3
+110;Marder II;pt;3
+111;??-76?;pt;3
+112;T56 GMC;pt;3
+113;?M3G FT;pt;3
+114;FCM 36 Pak 40;pt;3
+115;Renault UE 57;pt;3
+116;Ikv 72;pt;3
+117;Sturmpanzer I Bison;art;3
+118;Wespe;art;3
+119;CY-26;art;3
+120;M7 Priest;art;3
+121;T18 HMC;art;3
+122;Lorraine 39L AM;art;3
+123;Sexton II;art;3
+124;Sexton I;art;3
+125;Pz.Kpfw. Il Luchs;lt;4
+126;Pz.Kpfw. 38 (t) n.A.;lt;4
+127;??-7;lt;4
+128;T-80;lt;4
+129;????????? II;lt;4
+130;M5 Stuart;lt;4
+131;M5A1 Stuart;lt;4
+132;AMX 40;lt;4
+133;Cruiser Mk. IV;lt;4
+134;A25 Harry Hopkins I;lt;4
+135;???? 5 ??-??;lt;4
+136;14TP;lt;4
+137;Pz.Kpfw. III Ausf. J;st;4
+138;VK 20.01 (D);st;4
+139;Pz.Kpfw. IV Ausf. D;st;4
+140;T-28;st;4
+141;?-34 ? ?-11;st;4
+142;??-3;st;4
+143;A-32;st;4
+144;T-283 c 0-30;st;4
+145;?M3 Lee;st;4
+146;T6 Medium;st;4
+147;SARL 42;st;4
+148;Matilda;st;4
+149;Grant;st;4
+150;Matilda LVT;st;4
+151;AC 1 Sentinel;st;4
+152;Type 1 Chi-He;st;4
+153;ST vz. 39;st;4
+154;Lago;st;4
+155;P26/40;st;4
+156;Durchbruchswagen 2;tt;4
+157;Pz.Kpfw. B2 740 (f);tt;4
+158;B1;tt;4
+159;Type 95 Heavy;tt;4
+160;Jagdpanzer 38(t) Hetzer;pt;4
+161;Marder 38T;pt;4
+162;StuG III Ausf. B;pt;4
+163;Pz.Sfl. IC;pt;4
+164;?CY-76M;pt;4
+165;CY-856;pt;4
+166;T40;pt;4
+167;M8A1;pt;4
+168;SU-76G FT;pt;4
+169;Somua SAU 40;pt;4
+170;Valentine AT;pt;4
+171;Alecto;pt;4
+172;Sav m/43;pt;4
+173;Sturmpanzer II;art;4
+174;Pz.Sfl. IVb;art;4
+175;CY-5;art;4
+176;M37;art;4
+177;T82 HMC;art;4
+178;AMX 105 AM mle. 47;art;4
+179;Birch Gun;art;4
+180;?VK 16.02 Leopard;lt;5
+181;A-20;lt;5
+182;T-50;lt;5
+183;M7;lt;5
+184;M24 Chaffee;lt;5
+185;M24 Chaffee No. 594;lt;5
+186;AMX ELC bis;lt;5
+187;AMX 13 (FL 11);lt;5
+188;Covenanter;lt;5
+189;VK 30.01 (H);st;5
+190;Pz.Kpfw. III/IV;st;5
+191;Pz.Kpfw. IV Ausf. H;st;5
+192;Pz.Kpfw. IV Ausf. F2;st;5
+193;Pz.Kpfw. IV Ausf. H Ankou;st;5
+194;Pz.Kpfw. V/IV;st;5
+195;Pz.Kpfw. V/IV Alpha;st;5
+196;Pz.Kpfw. T 25;st;5
+197;Pz.Kpfw. IV hydrostat.;st;5
+198;Pz.Kpfw. III Ausf. K;st;5
+199;Turán III prototípus;st;5
+200;?T-34;st;5
+201;M4-85;st;5
+202;?-34 ??????????????;st;5
+203;???????? ??;st;5
+204;M4A1 Sherman;st;5
+205;M4 Improved;st;5
+206;ARMT;st;5
+207;Ram II;st;5
+208;M4A2E4 Sherman;st;5
+209;???? ?-34;st;5
+210;Renault G1;st;5
+211;Sherman III;st;5
+212;Cavalier;st;5
+213;AEC Armoured Car;st;5
+214;Matilda Black Prince;st;5
+215;Valiant;st;5
+216;Type 3 Chi-Nu;st;5
+217;Type 3 Chi-Nu Kai;st;5
+218;Škoda T 24;st;5
+219;Strv m/42;st;5
+220;?25TP KSUST II;st;5
+221;DS PZIn?;st;5
+222;P.43;st;5
+223;Pz.Kpfw. KW I (r);tt;5
+224;KB-1;tt;5
+225;??-1 ??????????????;tt;5
+226;KB-1C c M3;tt;5
+227;???????? III;tt;5
+228;KB-220-2;tt;5
+229;T14;tt;5
+230;T1 Heavy Tank;tt;5
+231;BDR G1 B;tt;5
+232;Churchill I;tt;5
+233;Excelsior;tt;5
+234;O-I Experimental;tt;5
+235;StuG III Ausf. G;pt;5
+236;Pz.Sfl. IVc;pt;5
+237;StuG IV;pt;5
+238;CY-85;pt;5
+239;CY-2-122;pt;5
+240;???-85?;pt;5
+241;M10 Wolverine;pt;5
+242;T67;pt;5
+243;60G FT;pt;5
+244;S35 CA;pt;5
+245;M10 RBFM;pt;5
+246;AT 2;pt;5
+247;Archer;pt;5
+248;Type 3 Ho-Ni III;pt;5
+249;Ikv 103;pt;5
+250;Semovente M41;pt;5
+251;Grille;art;5
+252;CY-122A;art;5
+253;M41 HMC;art;5
+254;105 leFH18B2;art;5
+255;AMX 13 105 AM mle 50;art;5
+256;Bishop;art;5
+257;?VK 28.01;lt;6
+258;VK 28.01 mit 10,5 cm;lt;6
+259;MT-25;lt;6
+260;T-50-2;lt;6
+261;T21;lt;6
+262;T37;lt;6
+263;M24E2 Super Chaffee;lt;6
+264;59-16;lt;6
+265;Type 64;lt;6
+266;AMX 12 t;lt;6
+267;Panhard AMD 178B;lt;6
+268;Crusader;lt;6
+269;A46;st;6
+270;VK 30.01 (D);st;6
+271;VK 30.02 (M);st;6
+272;Pz.Kpfw. IV Schmalturm;st;6
+273;T-34-85;st;6
+274;A-43;st;6
+275;?4-?2 ?????? ????;st;6
+276;T-34-85M;st;6
+277;M4A3E8 Sherman;st;6
+278;M4A3E2 Sherman Jumbo;st;6
+279;M4A3E8 Fury;st;6
+280;M4A3E8 Thunderbolt VII;st;6
+281;?Type 58;st;6
+282;Bretagne Panther;st;6
+283;M4A1 FL 10;st;6
+284;Cromwell;st;6
+285;Sherman Firefly;st;6
+286;Staghound Mk. III;st;6
+287;Cromwell B;st;6
+288;AC 4 Experimental;st;6
+289;Sherman VC Firefly;st;6
+290;Type 4 Chi-To;st;6
+291;Škoda T 25;st;6
+292;Škoda T 40;st;6
+293;Strv 74;st;6
+294;Strv m/42-57 Alt A.2;st;6
+295;Pudel;st;6
+296;40TP Habicha;st;6
+297;B.U.G.I.;st;6
+298;T-34-85 Rudy;st;6
+299;P.43 bis;st;6
+300;VK 36.01 (H);tt;6
+301;VK 30.01 (P);tt;6
+302;Tiger 131;tt;6
+303;KB-85;tt;6
+304;KB-2;tt;6
+305;?T-150;tt;6
+306;KB-1C;tt;6
+307;?????? 244;tt;6
+308;KB-2 (P);tt;6
+309;M6;tt;6
+310;Pawlack Tank;tt;6
+311;ARL 44;tt;6
+312;Churchill VII;tt;6
+313;TOG II*;tt;6
+314;0-I;tt;6
+315;Heavy Tank No. VI;tt;6
+316;Jagdpanzer IV;pt;6
+317;Nashorn;pt;6
+318;Dicker Max;pt;6
+319;Cy-100;pt;6
+320;Cy-100Y;pt;6
+321;M36 Jackson;pt;6
+322;M18 Hellcat;pt;6
+323;T78;pt;6
+324;WZ-131G FT;pt;6
+325;ARL V39;pt;6
+326;AT 8;pt;6
+327;Churchill Gun Carrier;pt;6
+328;Achilles;pt;6
+329;Excalibur;pt;6
+330;?Type 95 Ji-Ro;pt;6
+331;Ikv 65 Alt II;pt;6
+332;Semovente M43 Bass...;pt;6
+333;Hummel;art;6
+334;CY-8;art;6
+335;M44;art;6
+336;AMX 13 F3 AM;art;6
+337;FV304;art;6
+338;AUFKLÄRUNGSPANZER PANTHER;lt;7
+339;Spähpanzer SPIC;lt;7
+340;???;lt;7
+341;T71 DA;lt;7
+342;T71 CMCD;lt;7
+343;???? 62;lt;7
+344;WZ-131;lt;7
+345;AMX 13 75;lt;7
+346;Hotchkiss EBR;lt;7
+347;AMX 13 57 GF;lt;7
+348;AMX 13 57;lt;7
+349;GSR 3301 Setter;lt;7
+350;Panther;st;7
+351;VK 30.02 (D);st;7
+352;Panther/M10;st;7
+353;T-43;st;7
+354;KB-13;st;7
+355;A-44;st;7
+356;T-44-122A;st;7
+357;T-44-122;st;7
+358;T20;st;7
+359;T23E3;st;7
+360;Aufklärungspanzer Panther;st;7
+361;T26E3 Eagle 7;st;7
+362;T-34-1;st;7
+363;?Comet;st;7
+364;FSV Scheme A;st;7
+365;Type 5 Chi-Ri;st;7
+366;Konstrukta T-34/100;st;7
+367;Leo;st;7
+368;CS-44;st;7
+369;P.43 ter;st;7
+370;Tiger I;tt;7
+371;Tiger (P);tt;7
+372;VK 45.03;tt;7
+373;??;tt;7
+374;KB-3;tt;7
+375;??-2 ??????????????;tt;7
+376;??-2?;tt;7
+377;KB-122;tt;7
+378;??-2;tt;7
+379;T29;tt;7
+380;M-II-Y;tt;7
+381;King Tiger (???????????);tt;7
+382;IS-2;tt;7
+383;BZ-58;tt;7
+384;AMX M4 mle. 45;tt;7
+385;Black Prince;tt;7
+386;FV201 (A45);tt;7
+387;?O-Ni;tt;7
+388;Vz. 44-1;tt;7
+389;Škoda T 45;tt;7
+390;45TP Habicha;tt;7
+391;Carro d'assalto P.88;tt;7
+392;Jagdpanther;pt;7
+393;Sturer Emil;pt;7
+394;E 25;pt;7
+395;Krupp-Steyr Waffentr...;pt;7
+396;Cy-152;pt;7
+397;CY-100M1;pt;7
+398;CY-122-44;pt;7
+399;???-122?;pt;7
+400;T25 AT;pt;7
+401;T25/2;pt;7
+402;M56 Scorpion;pt;7
+403;T28 Concept;pt;7
+404;Super Hellcat;pt;7
+405;T-34-2G FT;pt;7
+406;AMX AC mle. 46;pt;7
+407;AT 7;pt;7
+408;Challenger;pt;7
+409;AT 15A;pt;7
+410;Chi-To SP;pt;7
+411;Ikv 90 Typ B;pt;7
+412;SMV CC-56;pt;7
+413;G.W. Panther;art;7
+414;C-51;art;7
+415;CY-14-1;art;7
+416;M12;art;7
+417;Lorraine 155 mle. 50;art;7
+418;Crusader 5.5-in. SP;art;7
+419;HWK 12;lt;8
+420;HWK 30;lt;8
+421;lekpz M 41 90 mm GF;lt;8
+422;lekpz M 41 90 mm;lt;8
+423;?TT6;lt;8
+424;?IT-432;lt;8
+425;M41 Walker Bulldog;lt;8
+426;T92;lt;8
+427;WZ-132;lt;8
+428;M41D;lt;8
+429;Bat.-Châtillon 12 t;lt;8
+430;Panhard AML Lynx 6x6;lt;8
+431;Panhard EBR 75 (FL 10);lt;8
+432;ELC EVEN 90;lt;8
+433;FV1066 Senlac;lt;8
+434;LHMTV;lt;8
+435;Panther II;st;8
+436;Indien-Panzer;st;8
+437;Mittlerer Kpz. Pr. 68 (P);st;8
+438;Kampfpanzer 07 RH;st;8
+439;M48A2 Räumpanzer;st;8
+440;Schwarzpanzer 58;st;8
+441;Panther mit 8,8 cm L/71;st;8
+442;Panzer 58;st;8
+443;Panzer 58 Mutz;st;8
+444;T-44;st;8
+445;?????? 416;st;8
+446;?????? 274?;st;8
+447;????????;st;8
+448;??? ????????;st;8
+449;???;st;8
+450;?-54 ?????? ???????;st;8
+451;T-44-100;st;8
+452;M26 Pershing;st;8
+453;T26E4 SuperPershing;st;8
+454;T69;st;8
+455;M47 Iron Arnie;st;8
+456;AMBT;st;8
+457;ASTRON Rex 105 mm;st;8
+458;T42;st;8
+459;T95E2;st;8
+460;M46 Patton KR;st;8
+461;T25 Pilot Number 1;st;8
+462;?TL-1 LPC;st;8
+463;Type 59;st;8
+464;Type 59 G;st;8
+465;T-34-2;st;8
+466;59-Patton;st;8
+467;T-34-3;st;8
+468;122 TM;st;8
+469;AltProto AMX 30;st;8
+470;Bat.-Châtillon Bourrasque;st;8
+471;Lorraine 40 t;st;8
+472;M4A1 Revalorisé;st;8
+473;AMX Chasseur de chars;st;8
+474;Centurion Mk. I;st;8
+475;Chieftain/T95;st;8
+476;FV601 Saladin;st;8
+477;FV4202;st;8
+478;Centurion Mk. 5/1 RAAC;st;8
+479;Chimera;st;8
+480;GSOR 1010 FB;st;8
+481;STA-1;st;8
+482;STA-2;st;8
+483;TVP VTU Koncept;st;8
+484;Škoda T 27;st;8
+485;UDES 14 Alt 5;st;8
+486;?Strv 81;st;8
+487;Primo Victoria;st;8
+488;Lansen C;st;8
+489;CS-53;st;8
+490;CS-52 LIS;st;8
+491;P.44 Pantera;st;8
+492;Progetto M35 mod. 46;st;8
+493;????;st;8
+494;Tiger II;tt;8
+495;VK 45.02 (P) Ausf. A;tt;8
+496;VK 100.01 (P);tt;8
+497;E 75 TS;tt;8
+498;VK 168.01 Mauerbrecher;tt;8
+499;VK 168.01 (P);tt;8
+500;Löwe;tt;8
+501;VK 75.01 (K);tt;8
+502;??-3;tt;8
+503;??-6;tt;8
+504;KB-4;tt;8
+505;??-?;tt;8
+506;??-2-??;tt;8
+507;K-2;tt;8
+508;?????? 703 ??????? II;tt;8
+509;?????? 2529 ????????;tt;8
+510;???-6 ?;tt;8
+511;?????? 252?;tt;8
+512;??-5;tt;8
+513;??-?? ??????;tt;8
+514;??-5 (?????? 730);tt;8
+515;??-3 ? ?3;tt;8
+516;???????-1;tt;8
+517;??-4 ????????????;tt;8
+518;T34;tt;8
+519;T32;tt;8
+520;M-II-Y;tt;8
+521;TS-54;tt;8
+522;T-832;tt;8
+523;M-IV-Y;tt;8
+524;M6A2E1;tt;8
+525;Chrysler K GF;tt;8
+526;T26E5;tt;8
+527;T26E5 Patriot;tt;8
+528;T34 B;tt;8
+529;Chrysler K;tt;8
+530;M54 Renegade;tt;8
+531;WZ-111;tt;8
+532;BZ-166;tt;8
+533;BZ-176;tt;8
+534;WZ-111 Alpine Tiger;tt;8
+535;AMX 50 100;tt;8
+536;AMX 65 t;tt;8
+537;AMX M4 mle. 49 Liberte;tt;8
+538;Somua SM;tt;8
+539;AMX M4 mle. 49;tt;8
+540;FCM 50 t;tt;8
+541;Caernarvon;tt;8
+542;Caliban;tt;8
+543;Charlemagne;tt;8
+544;Caernarvon Action X;tt;8
+545;Gonsalo;tt;8
+546;O-Ho;tt;8
+547;???? 63;tt;8
+548;TNH 105/1000;tt;8
+549;Škoda T 56;tt;8
+550;Emil I;tt;8
+551;EMIL 1951;tt;8
+552;Bofors Tornvagn;tt;8
+553;50TP prototyp;tt;8
+554;53TP Markowskiego;tt;8
+555;56TP;tt;8
+556;?50?? ????????????;tt;8
+557;Progetto CC55 mod. 54;tt;8
+558;Bisonte C45;tt;8
+559;Ferdinand;pt;8
+560;Jagdpanther II;pt;8
+561;Rhm.-Borsig Waffentrager;pt;8
+562;Kanonenjagdpanzer 105;pt;8
+563;Jagdtiger Prototype;pt;8
+564;Rheinmetall Skorpion G;pt;8
+565;8,8 cm Pak 43 Jagdti...;pt;8
+566;Kanonenjagdpanzer;pt;8
+567;Rheinmetall Skorpion;pt;8
+568;???-152;pt;8
+569;CY-101;pt;8
+570;?????? ???;pt;8
+571;???-152?;pt;8
+572;??-130??;pt;8
+573;T-103;pt;8
+574;???-130;pt;8
+575;KB-4 KTTC;pt;8
+576;T28;pt;8
+577;T28 Prototype;pt;8
+578;XM66F;pt;8
+579;TS-5;pt;8
+580;WZ-111-1G FT;pt;8
+581;WZ-120-1G FT;pt;8
+582;AMX AC mle. 48;pt;8
+583;AMX Canon d'assaut 105;pt;8
+584;AT 15;pt;8
+585;Charioteer;pt;8
+586;GSOR 1008;pt;8
+587;Turtle Mk. I;pt;8
+588;Ho-Ri 2;pt;8
+589;Type 5 Ka-Ri;pt;8
+590;ShPTK-TVP 100;pt;8
+591;UDES 03;pt;8
+592;Strv S1;pt;8
+593;SMV CC-67;pt;8
+594;SMV CC-64 Vipera;pt;8
+595;G.W. Tiger (P);art;8
+596;CY-14-2;art;8
+597;M40/M43;art;8
+598;Lorraine 155 mle. 51;art;8
+599;FV207;art;8
+600;?Spähpanzer Ru 251;lt;9
+601;?-54 ???????????;lt;9
+602;T49;lt;9
+603;WZ-132A;lt;9
+604;AMX 13 90;lt;9
+605;Panhard EBR 90;lt;9
+606;Char Mle. 75;lt;9
+607;GSOR3301 AVR FS;lt;9
+608;E 50;st;9
+609;Leopard Prototyp A;st;9
+610;Kunze Panzer;st;9
+611;Kampfpanzer 50 t;st;9
+612;T 55A;st;9
+613;T-54;st;9
+614;?????? 430 ??????? II;st;9
+615;?????? 430;st;9
+616;?????? 283;st;9
+617;M46 Patton;st;9
+618;Patton the Tank;st;9
+619;WZ-120;st;9
+620;Bat.-Châtillon 25t AP;st;9
+621;AMX 30 1er prototype;st;9
+622;Char Futur 4;st;9
+623;Centurion Mk. 7/1;st;9
+624;GSOR 1006 Scheme 7;st;9
+625;Cobra;st;9
+626;Type 61;st;9
+627;Škoda T 50;st;9
+628;UDES 16;st;9
+629;CS-59;st;9
+630;Prototipo Standard B;st;9
+631;VK 45.02 (P) Ausf. B;tt;9
+632;E 75;tt;9
+633;Mäuschen;tt;9
+634;Tiger-Maus;tt;9
+635;CT-I;tt;9
+636;T-10;tt;9
+637;?????? 257;tt;9
+638;?????? 705;tt;9
+639;??-3-1;tt;9
+640;?????? 752;tt;9
+641;?????? 777 ??????? II;tt;9
+642;M103;tt;9
+643;T54E1;tt;9
+644;M-VI-Y;tt;9
+645;T54 Heavy Tank;tt;9
+646;AE Phase I;tt;9
+647;Concept 1B;tt;9
+648;WZ-111 model 1-4;tt;9
+649;BZ-68;tt;9
+650;BZ-58-2;tt;9
+651;WZ-114;tt;9
+652;AMX 50 120;tt;9
+653;AMX M4 mle. 51;tt;9
+654;Lorraine 50 t;tt;9
+655;Conqueror;tt;9
+656;FV4201 Chieftain Proto;tt;9
+657;Type 4 Heavy;tt;9
+658;TNH TVZ. 51;tt;9
+659;Emil II;tt;9
+660;Strv K;tt;9
+661;50TP Tyszkiewicza;tt;9
+662;Progetto C50 mod. 66;tt;9
+663;Jagdtiger;pt;9
+664;Waffenträger auf Pz. IV;pt;9
+665;KPz 3 Projekt 07 HK;pt;9
+666;KJPZ TILI Jäger;pt;9
+667;?????? 704;pt;9
+668;?????? 263;pt;9
+669;K-91-?T;pt;9
+670;T30;pt;9
+671;T95;pt;9
+672;TL-7;pt;9
+673;?WZ-111G FT;pt;9
+674;WZ-120G FT;pt;9
+675;AMX 50 Foch;pt;9
+676;FV4004 Conway;pt;9
+677;Tortoise;pt;9
+678;Ho-Ri 1;pt;9
+679;Strv 103-0;pt;9
+680;Controcarro 1 Mk. 2;pt;9
+681;G.W. Tiger;art;9
+682;212A;art;9
+683;M53/M55;art;9
+684;Bat.-Châtillon 155 55;art;9
+685;FV3805;art;9
+686;Rheinmetall Panzerwagen;lt;10
+687;T-100 ?T;lt;10
+688;XM551 Sheridan;lt;10
+689;WZ-132-1;lt;10
+690;AMX 13 105;lt;10
+691;Panhard EBR 105;lt;10
+692;Manticore;lt;10
+693;E 50 Ausf. M;st;10
+694;Leopard 1;st;10
+695;T-62A;st;10
+696;?????? 907;st;10
+697;?????? 140;st;10
+698;?????? 430?;st;10
+699;K-91;st;10
+700;T-22 ??.;st;10
+701;M48A5 Patton;st;10
+702;M60;st;10
+703;T95E6;st;10
+704;121;st;10
+705;???? ???????;st;10
+706;121B;st;10
+707;Bat.-Châtillon 25t;st;10
+708;AMX 30 B;st;10
+709;Centurion Action X;st;10
+710;Concept No. 5;st;10
+711;STB-1;st;10
+712;TVP T 50/51;st;10
+713;UDES 15/16;st;10
+714;CS-63;st;10
+715;Progetto M40 mod. 65;st;10
+716;Lion;st;10
+717;Carro da Combattimento 45t;st;10
+718;Maus;tt;10
+719;E 100;tt;10
+720;Pz.Kpfw. VII;tt;10
+721;Kampfpanzer 07 P(E);tt;10
+722;VK 72.01 (K);tt;10
+723;??-4;tt;10
+724;??-7;tt;10
+725;?????? 705?;tt;10
+726;?????? 277;tt;10
+727;CT-II;tt;10
+728;?????? 780;tt;10
+729;?????? 279 ??????;tt;10
+730;?????? 260;tt;10
+731;T110E5;tt;10
+732;T57 Heavy Tank;tt;10
+733;M-V-Y;tt;10
+734;113;tt;10
+735;WZ-111 model 5A;tt;10
+736;BZ-75;tt;10
+737;116-F3;tt;10
+738;WZ-111 Qilin;tt;10
+739;113 Beijing Opera;tt;10
+740;AMX 50 B;tt;10
+741;AMX M4 mle. 54;tt;10
+742;FV215b;tt;10
+743;Super Conqueror;tt;10
+744;T95/FV4201 Chieftain;tt;10
+745;Type 5 Heavy;tt;10
+746;Vz. 55;tt;10
+747;Vz. 55 Gothic Warrior;tt;10
+748;Kranvagn;tt;10
+749;60TP Lewandowskiego;tt;10
+750;Rinoceronte;tt;10
+751;Jagdpanzer E 100;pt;10
+752;Grille 15;pt;10
+753;?????? 268;pt;10
+754;?????? 268 ??????? 4;pt;10
+755;?????? 268 ??????? 5;pt;10
+756;T110E4;pt;10
+757;T110E3;pt;10
+758;?WZ-113G FT;pt;10
+759;114 SP2;pt;10
+760;AMX 50 Foch (155);pt;10
+761;AMX 50 Foch B;pt;10
+762;FV215b (183);pt;10
+763;FV4005 Stage II;pt;10
+764;FV217 Badger;pt;10
+765;Ho-Ri 3;pt;10
+766;Strv 103B;pt;10
+767;Controcarro 3 Minotauro;pt;10
+768;G.W. E 100;art;10
+769;?????? 261;art;10
+770;T92 HMC;art;10
+771;Bat.-Châtillon 155 58;art;10
+772;Conqueror Gun Carriage;art;10
